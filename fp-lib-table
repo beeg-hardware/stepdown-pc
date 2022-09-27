@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Littlelfuse520series")(type "KiCad")(uri "${KIPRJMOD}/local_foot/Littlelfuse520series.pretty")(options "")(descr ""))
+  (lib (name "VXO78-1000")(type "KiCad")(uri "${KIPRJMOD}/local_foot/VXO78-1000.pretty")(options "")(descr ""))
+  (lib (name "Piher_Amphenol_PT10")(type "KiCad")(uri "${KIPRJMOD}/local_foot/Piher_Amphenol_PT10.pretty")(options "")(descr ""))
+  (lib (name "PTN78020HAH")(type "KiCad")(uri "${KIPRJMOD}/local_foot/PTN78020HAH.pretty")(options "")(descr ""))
+)

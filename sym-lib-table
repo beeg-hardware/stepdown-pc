@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "VXO78-1000")(type "KiCad")(uri "${KIPRJMOD}/local_sym/VXO78-1000.kicad_sym")(options "")(descr ""))
+  (lib (name "PTN78020HAH")(type "KiCad")(uri "${KIPRJMOD}/local_sym/PTN78020HAH.kicad_sym")(options "")(descr ""))
+)
